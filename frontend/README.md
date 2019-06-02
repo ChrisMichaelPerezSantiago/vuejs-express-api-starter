@@ -31,6 +31,11 @@ npm run lint
 npm run test:unit
 ```
 
+### Electron App
+```
+npm run electron:serve
+```
+
 ## Dependencies
 - "axios": "^0.18.0",
 - "core-js": "^2.6.5",
