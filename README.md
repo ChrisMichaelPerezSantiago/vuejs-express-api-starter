@@ -2,6 +2,16 @@
 💡 *This is a vuejs express api starter template AND node/express api basic build* 
  
 
+## Frontend
+```
+npm run serve
+```
+
+## Backend
+```
+npm run dev
+```
+
 ## Credits
 ChrisMichaelPerezSantiago [Template | vuex-store-starter](https://github.com/ChrisMichaelPerezSantiago/vuex-store-starter),
 used as frontend.
