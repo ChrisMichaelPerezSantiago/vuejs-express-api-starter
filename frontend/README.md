@@ -37,7 +37,7 @@ npm run electron:serve
 ```
 
 ## Dependencies
-- "axios": "^0.18.0",
+- "axios": "^0.18.1",
 - "core-js": "^2.6.5",
 - "lodash": "^4.17.11",
 - "vue": "^2.6.10",
