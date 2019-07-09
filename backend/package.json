@@ -22,7 +22,7 @@
   },
   "devDependencies": {
     "nodemon": "^1.19.1",
-    "snyk": "^1.192.3",
+    "snyk": "^1.192.4",
     "supertest": "^4.0.2",
     "mocha": "^6.1.4"
   }
