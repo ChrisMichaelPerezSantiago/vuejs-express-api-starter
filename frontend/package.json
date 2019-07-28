@@ -33,6 +33,8 @@
     "@vue/test-utils": "1.0.0-beta.29",
     "babel-eslint": "^10.0.2",
     "chai": "^4.1.2",
+    "electron": "^5.0.8",
+    "eslint": "^6.0.1",
     "electron": "^5.0.6",
     "eslint": "^6.1.0",
     "eslint-plugin-vue": "^5.2.3",
