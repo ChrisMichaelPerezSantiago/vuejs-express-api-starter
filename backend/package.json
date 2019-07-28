@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.0.0",
-    "eslint": "^6.0.1",
+    "eslint": "^6.1.0",
     "express": "^4.17.1",
     "helmet": "^3.18.0",
     "morgan": "^1.9.1"
@@ -24,6 +24,6 @@
     "nodemon": "^1.19.1",
     "snyk": "^1.193.2",
     "supertest": "^4.0.2",
-    "mocha": "^6.1.4"
+    "mocha": "^6.2.0"
   }
 }
