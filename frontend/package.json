@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@vue/cli-plugin-babel": "^3.9.2",
-    "@vue/cli-plugin-babel": "^3.8.0",
+    "@vue/cli-plugin-babel": "^3.10.0",
     "@vue/cli-plugin-eslint": "^3.9.2",
     "@vue/cli-plugin-unit-mocha": "^3.8.0",
     "@vue/cli-plugin-eslint": "^3.8.0",
