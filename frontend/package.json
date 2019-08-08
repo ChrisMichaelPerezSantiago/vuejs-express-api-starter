@@ -28,6 +28,7 @@
     "@vue/cli-plugin-unit-mocha": "^3.8.0",
     "@vue/cli-plugin-eslint": "^3.10.0",
     "@vue/cli-plugin-unit-mocha": "^3.9.0",
+    "@vue/cli-service": "^3.10.0",
     "@vue/cli-plugin-eslint": "^3.8.0",
     "@vue/cli-plugin-unit-mocha": "^3.10.0",
     "@vue/cli-service": "^3.9.3",
