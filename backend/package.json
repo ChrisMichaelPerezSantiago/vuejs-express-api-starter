@@ -14,7 +14,7 @@
   "author": "Chris M. Perez",
   "license": "MIT",
   "dependencies": {
-    "dotenv": "^8.1.0",
+    "dotenv": "^9.0.1",
     "eslint": "^6.3.0",
     "express": "^4.17.1",
     "helmet": "^3.21.0",
