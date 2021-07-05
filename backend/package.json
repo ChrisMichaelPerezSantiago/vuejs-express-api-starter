@@ -15,7 +15,7 @@
   "license": "MIT",
   "dependencies": {
     "dotenv": "^8.1.0",
-    "eslint": "^6.3.0",
+    "eslint": "^7.30.0",
     "express": "^4.17.1",
     "helmet": "^3.21.0",
     "morgan": "^1.9.1"
